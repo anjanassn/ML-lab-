@@ -37,3 +37,18 @@ Install the required libraries using:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+## 📥 Dataset Setup
+
+1. Download `loan_train.csv` from [Kaggle Loan Prediction Dataset](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling).
+2. Place the file in the same directory as the notebook (`ML2.ipynb`).
+3. Ensure the file name is exactly `loan_train.csv`.
+---
+
+## 🧪 Run the Notebook
+
+1. Launch Jupyter Notebook or Jupyter Lab.
+2. Open `ML2.ipynb`.
+3. Run all cells in order.
+
